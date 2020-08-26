@@ -8,3 +8,6 @@ while num > 0
   num -= 1
 
 end
+
+def countdown_with_sleep(num)
+  while num > 0
